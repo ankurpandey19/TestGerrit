@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Hello happy sales people");
 		System.out.println("this app shows salesdata");
 		System.out.println("Test 1");
+		System.out.println("Text2");
 		
 	}
 
